@@ -1,0 +1,24 @@
+PokeSleepSGP public art data — source acknowledgements
+
+Pokémon characters and game assets belong to their respective rights holders.
+They are not original artwork created by this project.
+
+The game-internal catalog, item keys and localized names originate from the
+previously verified static Pokémon Sleep 3.9.1 master/name exports. No player
+database or runtime account data is included.
+
+Pokémon icons, and pumpkin/avocado ingredient icons:
+Neroli's Lab — https://github.com/nerolis-lab/nerolis-lab
+Source revision: 26cead24460b8b5928675d13ddb729f2ceade7ed
+The upstream repository's Apache-2.0 license and NOTICE are included separately.
+That code license does not by itself establish a separate license to the
+original Pokémon game artwork.
+
+Most berry/ingredient icons originate from previously verified static game
+sprite assets. The supplementary Very Big Mago Berry image was sourced from:
+https://www.serebii.net/pokemonsleep/ingredients.shtml
+https://www.serebii.net/pokemonsleep/berries/verybigmagoberry.png
+No independent open-image license is claimed for this image.
+
+Images are downscaled to a maximum side of 96 pixels and encoded as WebP.
+The package contains only public static data and image bytes.

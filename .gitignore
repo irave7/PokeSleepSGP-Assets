@@ -1,0 +1,5 @@
+*.pem
+*.key
+.DS_Store
+private/
+sessions/
